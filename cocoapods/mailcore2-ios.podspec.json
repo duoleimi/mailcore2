@@ -14,7 +14,7 @@
     "flatten": true
   },
   "platforms": {
-    "ios": 7.0
+    "ios": 6.0
   },
   "header_dir": "MailCore",
   "requires_arc": false,
